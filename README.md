@@ -1,7 +1,7 @@
 ## 💼 Portfolio Website
 [Link to Portfolio](https://portfolio-one-taupe-52.vercel.app/)
 
-![Portfolio thumbnail](./public/website-thumbnail.png "Company Logo")
+![Portfolio thumbnail](./public/website-thumbnail.png "Portfolio thumbnail")
 
 
 🚀 **Tech Stack:** React • TypeScript • Framer Motion • Tailwind CSS • Github API • etc.
